@@ -207,7 +207,7 @@ Student-Risk-Prediction-System/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/chitranshsrivastav48/Student-Risk-Prediction-System.git
 cd Student-Risk-Prediction-System
 ```
 
